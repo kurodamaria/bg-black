@@ -2,10 +2,10 @@
     "name": "bg-black",
     "displayName": "BG Black",
     "description": "A dark theme with a black background.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "kurodamaria",
     "repository": "https://github.com/kurodamaria/bg-black.git",
-    "icon": "./icon.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.59.0"
     },
