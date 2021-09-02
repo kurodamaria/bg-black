@@ -1,5 +1,5 @@
 {
-  "name": "From Ben 10 - Fork",
+  "name": "BG Black",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1847,7 +1847,7 @@
   "colors": {
     "foreground": "#75ff71",
     "focusBorder": "#1b1b1b",
-    "selection.background": "#242424",
+    "selection.background": "#666666",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#75ff71",
     "activityBar.background": "#000000",
