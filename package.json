@@ -1,0 +1,22 @@
+{
+    "name": "bg-black",
+    "displayName": "BG Black",
+    "description": "A dark theme with a black background.",
+    "version": "0.0.1",
+    "publisher": "kurodamaria",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "BG Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/BG Black-color-theme.json"
+            }
+        ]
+    }
+}
